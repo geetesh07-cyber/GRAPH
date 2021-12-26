@@ -1,0 +1,1 @@
+{"name":"Local: create","url":"c:\\Users\\Geetesh\\Desktop\\GRAPH\\create.cpp","tests":[{"id":1639710518080,"input":"2\nENE\nENNE","output":"NO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Geetesh\\Desktop\\GRAPH\\create.cpp","group":"local","local":true}
