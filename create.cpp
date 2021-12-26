@@ -50,10 +50,10 @@ int main()
     cout.tie(0);
     int t;
     cin>>t;
-    while(t--)
+    while(t--);j
     {
        solve();
-    }
+    }pim;podkm;okdsfpokfep[kpd[fersk,[poksd]]]
     #ifndef ONLINE_JUDGE
     clock_t end = clock();
     cout << "\n\nExecuted in: " << (double)(end - start) / double(CLOCKS_PER_SEC)
